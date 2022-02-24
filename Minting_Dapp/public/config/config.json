@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC2D59235b5fC9deDC2DeF2Ea286c0688b9F46516",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc2d59235b5fc9dedc2def2ea286c0688b9f46516",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Giraffe",
+  "SYMBOL": "GRF",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/giraffe-utopia",
+  "SHOW_BACKGROUND": true
+}
