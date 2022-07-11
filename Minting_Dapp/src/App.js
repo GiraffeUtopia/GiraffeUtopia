@@ -386,8 +386,8 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            ADD POLYGON NETWORK EASLY FROM -> <StyledLink href={"https://polygonscan.com/"}>
-             (ADD POLYGON NETWORK) </StyledLink> 
+             <StyledLink target={"_blank"} href={"https://polygonscan.com/"}>
+             ADD POLYGON NETWORK </StyledLink> 
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
