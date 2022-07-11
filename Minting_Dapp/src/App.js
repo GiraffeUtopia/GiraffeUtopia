@@ -379,15 +379,13 @@ function App() {
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
-        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+        <s.Container jc={"center"} ai={"center"} style={{ width: "100%" }}>
           <s.TextDescription
             style={{
               textAlign: "center",
               color: "var(--primary-text)",
             }}
           >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address.
             ADD POLYGON NETWORK EASLY FROM -> https://https://polygonscan.com/ (ADD POLYGON NETWORK)
           </s.TextDescription>
           <s.SpacerSmall />
